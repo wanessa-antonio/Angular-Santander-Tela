@@ -1,0 +1,51 @@
+.amount-box-container {
+	border-radius: 12px;
+	background-color: #ffffff;
+	height: 220px;
+	width: 340px;
+	padding: 10px 30px;
+	margin-top: 4vh;
+}
+
+.amout-title {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	height: 20%;
+
+	font-family: "Bebas Neue", sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.amout-title > p {
+	padding-left: 25px;
+}
+
+#amount-value {
+	font-family: "Bebas Neue", sans-serif;
+	font-size: 40.6px;
+	font-weight: 700;
+	height: 70px;
+	margin-top: 20px;
+	transition: 0.2;
+}
+
+#amount-value:hover {
+	color: #696969;
+}
+
+#divider {
+	border-radius: 5000px;
+	background: #d9d9d9;
+	width: 100%;
+	height: 2px;
+	flex-shrink: 0;
+}
+
+#amount-total {
+	font-size: 20px;
+	height: 40%;
+	margin-top: 10px;
+	font-family: "Bebas Neue", sans-serif;
+}
