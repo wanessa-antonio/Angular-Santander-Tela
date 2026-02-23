@@ -6,7 +6,7 @@ Projeto desenvolvido durante um evento promovido pela DIO em parceria com o Sant
 
 ## 🖼️ Preview
 
-![Preview da Aplicação](santander.tela.png)
+![Preview da Aplicação](santander-tela.png)
 
 ---
 
